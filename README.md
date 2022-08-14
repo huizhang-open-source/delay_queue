@@ -15,7 +15,7 @@
 
 ### 能力引入
 ```go
-go get github.com/huizhang-open-source/delay-queue
+go get github.com/huizhang-open-source/delay_queue
 ```
 
 ### 启动服务
