@@ -11,6 +11,8 @@
 
 ## 使用样例
 
+`redis版本：zadd和zrem方法要支持批量插入、zadd要支持nx参数、支持lua脚本`
+
 ### 能力引入
 ```go
 go get github.com/huizhang-open-source/delay-queue
